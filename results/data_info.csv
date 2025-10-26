@@ -1,0 +1,2 @@
+timestamp,data_dir,signal_type,n_segments_requested,n_segments_loaded,segment_length,cluster_threshold
+2025-10-25 22:58:46,PulseDB_MIMIC,ABP_F,5,5,1250,2.0

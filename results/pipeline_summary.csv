@@ -1,0 +1,26 @@
+Metric,Value
+Pipeline Execution Summary,
+Timestamp,2025-10-25 22:59:11
+,
+Data Information,
+Signal Type,ABP_F
+Segments Loaded,5
+Segment Length,1250
+ ,
+Clustering Results,
+Number of Clusters,1
+Cluster Threshold,2.0
+Largest Cluster Size,5
+Smallest Cluster Size,5
+Average Cluster Size,5.0
+  ,
+Kadane Analysis,
+Segments Analyzed,5
+Mean Max Sum,48.37860308899435
+Std Max Sum,10.732411492102035
+Mean Interval Length,432.2
+Mean Interval Coverage (%),34.57599999999999
+   ,
+Output Files,
+CSV Files,"data_info.csv, cluster_summary.csv, closest_pairs.csv, kadane_results.csv, kadane_statistics.csv"
+PNG Files,"clusters.png, kadane_example.png, cluster_distribution.png, kadane_statistics.png"

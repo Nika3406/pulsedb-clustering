@@ -1,0 +1,2 @@
+cluster_id,cluster_size,closest_pair_idx1,closest_pair_idx2,dtw_distance,status
+1,5,3,4,0.04812460324859319,computed
